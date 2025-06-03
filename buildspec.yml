@@ -54,6 +54,4 @@ phases:
           --force-new-deployment \
           --network-configuration "awsvpcConfiguration={subnets=[subnet-06dc0fd87bfe5a8b6],securityGroups=[sg-029beaf9489126e73],assignPublicIp=ENABLED}"
 
-artifacts:
-  files:
-    - imagedefinitions.json
+
